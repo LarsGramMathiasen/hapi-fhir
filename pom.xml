@@ -2048,6 +2048,7 @@
 				<module>example-projects/hapi-fhir-jpaserver-dynamic</module>
 				<module>tests/hapi-fhir-base-test-mindeps-client</module>
 				<module>tests/hapi-fhir-base-test-mindeps-server</module>
+				<module>tests/hapi-fhir-test-nullpointerexception</module>
 				<module>hapi-fhir-igpacks</module>
 				<module>hapi-fhir-spring-boot</module>
 				<!--<module>hapi-fhir-osgi-core</module>-->
